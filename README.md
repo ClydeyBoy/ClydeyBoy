@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2><b>:large_blue_circle: About Me </b></h2>
+<p>
+### Hi there 👋 I am a full stack software developer based in Auckland, New Zealand with experience in designing web applications using HTML, CSS, React, JavaScript, NodeJS, ExpressJS, MySQL and MongoDB.
 
-<!--
-**ClydeyBoy/ClydeyBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also have experience using common development infrastructure such as Docker and GitHub Workflows. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+<h2><b>:large_blue_circle:Hobbies</b></h2>
+<p></br>&nbsp&nbsp&nbsp&nbsp :left_luggage:Travelling, :video_game:Gaming, :evergreen_tree:Hiking,  :guitar:Guitar </p><br/>
+
+<hr>
+<h2><b>:large_blue_circle:Contact details</b></h2>
+<p >📧clyded@missionreadyhq.com </p>
+<a href="">Linkedin</a><br/><br/>
