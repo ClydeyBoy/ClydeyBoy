@@ -6,10 +6,10 @@ I also have experience using common development infrastructure such as Docker an
 
 
 <hr/>
-<h2><b>:round_pushpin::Hobbies</b></h2>
-<p></br>&nbsp&nbsp&nbsp&nbsp :left_luggage:Travelling, :video_game:Gaming, :evergreen_tree:Hiking,  :guitar:Guitar </p><br/>
+<h2><b>:round_pushpin: Hobbies</b></h2>
+<p></br>&nbsp&nbsp&nbsp&nbsp :left_luggage: Travelling, :video_game: Gaming, :evergreen_tree: Hiking,  :guitar: Guitar </p><br/>
 
 <hr>
-<h2><b>:round_pushpin:Contact details</b></h2>
+<h2><b> :round_pushpin: Contact details</b></h2>
 <p >📧clyded@missionreadyhq.com </p>
 <a href="">Linkedin</a><br/><br/>
