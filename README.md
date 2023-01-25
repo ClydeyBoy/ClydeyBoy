@@ -1,4 +1,4 @@
-<h2><b>:small_red_triangle_down: About Me </b></h2>
+<h2><b>:round_pushpin: About Me </b></h2>
 <p>
 Hi there 👋 I am a full stack software developer based in Auckland, New Zealand with experience in designing web applications using HTML, CSS, React, JavaScript, NodeJS, ExpressJS, MySQL and MongoDB.
 
