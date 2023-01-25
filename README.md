@@ -1,6 +1,6 @@
 <h2><b>:round_pushpin: About Me </b></h2>
 <p>
-Hi there, 👋 
+Hi there, 👋 <br>
 I am a full stack software developer based in Auckland, New Zealand with experience in designing web applications using HTML, CSS, React, JavaScript, NodeJS, ExpressJS, MySQL and MongoDB.
 
 I also have experience using common development infrastructure such as Docker and GitHub Workflows. 
