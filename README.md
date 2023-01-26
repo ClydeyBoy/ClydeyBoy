@@ -13,4 +13,4 @@ I also have experience using common development infrastructure such as Docker an
 <hr>
 <h2><b> :round_pushpin: Contact details</b></h2>
 <p >📧clyded@missionreadyhq.com </p>
-<a href="">Linkedin</a><br/><br/>
+<a href="https://www.linkedin.com/in/clyde-d-souza-a1a609116/">Linkedin</a><br/><br/>
